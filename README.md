@@ -1,16 +1,34 @@
-# dicee
 
-Dicee applicaiton for London App Brewery Bootcamp
 
-## Getting Started
+# Dicee 🎲
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## What I was trying to achieve
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I wanted to make a Las Vegas dice app. In which I can make the die roll at the press of a button. And using the app in my pocket, I’ll be able to settle any score on the go!
+
+
+## What I created
+
+
+
+![Finished App](https://github.com/aiwithab/dicee/screenshots/dicee-demo.gif)
+
+## What I have learned
+
+- How to use Flutter stateless widgets to design the user      interface.
+-    How to use Flutter stateful widgets to update the user interface.
+-    How to change the properties of various widgets.
+-    How to use onPressed listeners to detect when buttons are pressed.
+-    How to use setState to mark the widget tree as dirty and requiring update on the next render.
+-    How to use Expanded to make widgets adapt to screen dimensions.
+-    Understand and use string interpolation.
+-    Learn about basic dart programming concepts such as data types and functions.
+-    Code and use gesture controls.
+
+
+
+
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp.
+
