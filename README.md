@@ -13,7 +13,7 @@ I wanted to make a Las Vegas dice app. In which I can make the die roll at the p
 
 
 
-![Finished App](https://github.com/aiwithab/dicee/screenshots/dicee-demo.gif)
+![Finished App](https://github.com/aiwithab/dicee/blob/master/screenshots/dicee-demo.gif)
 
 ## What I have learned
 
